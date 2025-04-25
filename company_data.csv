@@ -1,0 +1,11 @@
+Order ID,Order Date,Unit Cost,Price,Order Qty,Cost of Sales,Sales,Profit,Channel,Promotion Name,Product Name,Manufacturer,Product Sub Category,Product Category,Region,City,Country
+7077,9/13/2017,76.09496775,304.0,9,684.8547097,2714.72,2029.86529,Store,European Spring Promotion,Contoso SLR Camera M143 Grey,"Contoso, Ltd",Digital SLR Cameras,Cameras and camcorders ,Europe,Moscow,Russia
+117,8/20/2016,7.491752798,12.99,4,29.96701119,50.1414,20.17438881,Store,European Spring Promotion,Contoso 512MB MP3 Player E51 Blue,"Contoso, Ltd",MP4&MP3,Audio,Europe,Moscow,Russia
+7018,7/8/2016,10.12233768,159.99,9,91.10103916,1395.1128,1304.011761,Store,European Spring Promotion,Contoso DVD 9-Inch Player Portable M300 Silver,"Contoso, Ltd",Movie DVD,"Music, Movies and Audio Books",Europe,Moscow,Russia
+140,8/11/2018,0.576153263,25.69,18,10.37075874,462.42,452.0492413,Store,North America Spring Promotion,NT Bluetooth Stereo Headphones E52 Pink,Northwind Traders,Bluetooth Headphones,Audio,North America,Bellevue,United States
+491,7/15/2017,108.5087768,304.0,9,976.5789912,2614.4,1637.821009,Online,Asian Spring Promotion,Contoso SLR Camera M143 Grey,"Contoso, Ltd",Digital SLR Cameras,Cameras and camcorders ,Asia,Beijing,China
+58,10/2/2018,77.98502883,299.0,24,1871.640692,7056.4,5184.759308,Online,Asian Summer Promotion,SV Car Video TFT7 M7000 Silver,Southridge Video,Car Video,TV and Video,Asia,Beijing,China
+7085,2/22/2019,154.987254,699.0,10,1549.87254,6990.0,5440.12746,Online,No Discount,Adventure Works Laptop15 M1501 Red,Adventure Works,Laptops,Computers,Asia,Beijing,China
+929,3/13/2017,96.4548497,178.0,5,482.2742485,890.0,407.7257515,Online,No Discount,Fabrikam Social Videographer 1/2'' 3mm E300 White,"Fabrikam, Inc.",Camcorders,Cameras and camcorders ,Asia,Beijing,China
+1527,6/26/2017,227.3970926,310.0,13,2956.162204,3890.5,934.3377958,Online,Asian Holiday Promotion,The Phone Company Smart phones Unlocked International M800 Gold,The Phone Company,Smart phones & PDAs ,Cell phones,Asia,Beijing,China
+7264,1/16/2018,158.6528393,299.0,30,4759.58518,8970.0,4210.41482,Online,No Discount,The Phone Company PDA Phone 3.5 inches M320 Silver,The Phone Company,Smart phones & PDAs ,Cell phones,Asia,Beijing,China
